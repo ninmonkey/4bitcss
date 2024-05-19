@@ -1,5 +1,5 @@
 /*
-This replaces the original base theme for Hilight.js
+This replaces the original base theme for Highlight.js
 It uses 4bitcss CSS variables rather than hardcoded colors
 
 original: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/default.css
@@ -16,15 +16,6 @@ code.hljs {
     padding: 3px 5px
 }
 
-/*!
-  Theme: Default
-  Description: Original highlight.js style
-  Author: (c) Ivan Sagalaev <maniac@softwaremaniacs.org>
-  Maintainer: @highlightjs/core-team
-  Website: https://highlightjs.org/
-  License: see project LICENSE
-  Touched: 2021
-*/
 /*
 This is left on purpose making default.css the single file that can be lifted
 as-is from the repository directly without the need for a build step
